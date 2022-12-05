@@ -1,0 +1,17 @@
+/Users/pipiskop/Pts/folder/folder/bin/Debug/net6.0/folder
+/Users/pipiskop/Pts/folder/folder/bin/Debug/net6.0/folder.deps.json
+/Users/pipiskop/Pts/folder/folder/bin/Debug/net6.0/folder.runtimeconfig.json
+/Users/pipiskop/Pts/folder/folder/bin/Debug/net6.0/folder.dll
+/Users/pipiskop/Pts/folder/folder/bin/Debug/net6.0/folder.pdb
+/Users/pipiskop/Pts/folder/folder/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/pipiskop/Pts/folder/folder/obj/Debug/net6.0/folder.csproj.AssemblyReference.cache
+/Users/pipiskop/Pts/folder/folder/obj/Debug/net6.0/folder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pipiskop/Pts/folder/folder/obj/Debug/net6.0/folder.AssemblyInfoInputs.cache
+/Users/pipiskop/Pts/folder/folder/obj/Debug/net6.0/folder.AssemblyInfo.cs
+/Users/pipiskop/Pts/folder/folder/obj/Debug/net6.0/folder.csproj.CoreCompileInputs.cache
+/Users/pipiskop/Pts/folder/folder/obj/Debug/net6.0/folder.csproj.CopyComplete
+/Users/pipiskop/Pts/folder/folder/obj/Debug/net6.0/folder.dll
+/Users/pipiskop/Pts/folder/folder/obj/Debug/net6.0/refint/folder.dll
+/Users/pipiskop/Pts/folder/folder/obj/Debug/net6.0/folder.pdb
+/Users/pipiskop/Pts/folder/folder/obj/Debug/net6.0/folder.genruntimeconfig.cache
+/Users/pipiskop/Pts/folder/folder/obj/Debug/net6.0/ref/folder.dll
