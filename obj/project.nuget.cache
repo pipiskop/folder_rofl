@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "n5CUF9twtBhpNz7Jj9Rl7QbeC9AEsZVRnTFpbetOPeaJNxRRc/rxdjXZFBkGWZvS9lsuhdyp4gJPS004i/GzyA==",
+  "dgSpecHash": "vosxJhjurlo8/Lgo7wd6MrSnDC7XXp4G1HsVjSY54OoDaB7BbXML2eZYQtCMEulax94BT0uc6Vlb9c0E3R8oKg==",
   "success": true,
   "projectFilePath": "/Users/pipiskop/Pts/folder/folder/folder.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/pipiskop/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
